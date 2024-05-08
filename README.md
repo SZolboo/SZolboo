@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%World!&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello% World!&fontSize=90&fontColor=d6ace6" />
 
 <!--
 **SZolboo/SZolboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
