@@ -11,7 +11,7 @@ Fields of Interests:
     "Business Intelligence Analysis"
     "UI/UX"
     "Web Development"
-    "Visualization"
+    "Data Visualization"
   ]
 Currently Learning:
   [
@@ -26,6 +26,23 @@ Currently Learning:
   ]
 Hobbies:
   [
-    "Play Basketball, Volleyball, Swimming, Hiking, Running, Video games, Watch movies, and many more ..."
+    "Basketball"
+    "Volleyball"
+    "Swimming"
+    "Running"
+    "Video Games"
+    "Binge-watching movies and series."
+    "Many more..."
   ]
 ```
+<h2>Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+
+
+
+
