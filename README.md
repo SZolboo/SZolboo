@@ -27,10 +27,15 @@ Currently Learning:
     "Google Data Analytics Professional Certificate"
     "Python for Everybody Specialization by the University of Michigan on Coursera"
   ]
+Current Project:
+  [
+    "I am working on Google Play Store Applications Analysis using Excel, Python and Tableau."
+    "The project is currently under development and will be posted onto my repo soon."
+  ]
 2024 Goals:
   [
     "Complete 25+ projects"
-    "Learn at least 5 new technologies"
+    "Learn at least 5 new technologies for Data Analytics"
     "Most importantly, land my dream job"
   ]
 Hobbies:
