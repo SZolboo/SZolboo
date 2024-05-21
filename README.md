@@ -3,7 +3,7 @@
 ```yaml
 Name: Zolboo Sukh-Ochir
 Location: Sydney, Australia
-Education: Bachelor of Information Technology, majored in cloud computing at Deakin University
+Education: Bachelor of Information Technology, majored in Cloud Computing at Deakin University
 Fields of Interests:
   [
     "Data Science"
